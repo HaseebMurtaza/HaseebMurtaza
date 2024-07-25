@@ -1,4 +1,4 @@
-## Hi there I am Haseeb Murtaza👋
+## Hi there👋 I'm Haseeb Murtaza
 
 - 🔭 I’m currently working on Trillo and ReactJs project.
 - 🌱 I’m currently learning Advanced CSS with Sass and ReactJs.
